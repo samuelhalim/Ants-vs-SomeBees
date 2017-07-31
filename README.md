@@ -1,1 +1,1 @@
-# Ants-vs-SomeBees
+# Ants vs SomeBees
